@@ -15,4 +15,4 @@ This is an upper-level course in International Relations (IR). The course offers
 
 ### Week 1   
 
-- Lecture 1 (01.20.2021): Introduction
+- Lecture 1 (01.20.2021): Introduction ([Lecture Slides](LectureSlides/318__IR_Lecture_1.pdf); [Lecture Video](https://youtu.be/OLSG4Nybmdk))
