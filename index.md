@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## POLS 318
 
 You can use the [editor on GitHub](https://github.com/rotemdvir/POLS318-IR-Theories-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
