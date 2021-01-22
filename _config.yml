@@ -12,7 +12,7 @@ theme: jekyll-theme-dinky
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 
 
-production_url : https://rotemdvir.github.io/POLS318-Theories-of-IR-2021
+production_url : https://rotemdvir.github.io/POLS318-IR-Theories-2021
 
 JB :
   version : 0.3.0
