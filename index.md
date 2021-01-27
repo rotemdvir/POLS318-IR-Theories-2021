@@ -19,7 +19,8 @@ This is an upper-level course in International Relations (IR). The course offers
 
 ### Week 2. 
 
-  - Lecture 2 (01.25.2021): The basics of theory constrcution ([Lecture Slides](LectureSlides/318__IR_Lecture_2.pdf); [Lecture Video](https://youtu.be/98MUaUNU6Gs)).  
+  - Lecture 2 (01.25.2021): The basics of theory constrcution ([Lecture Slides](LectureSlides/318__IR_Lecture_2.pdf); [Lecture Video](https://youtu.be/98MUaUNU6Gs)).
+  - Lecture 3 (01.25.2021): Levels of analysis and the policy gap ([Lecture Slides](LectureSlides/318__IR_Lecture_2.pdf); [Lecture Video](https://youtu.be/kooM1fEqW0I)).  
   
 Readings:  
 
