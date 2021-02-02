@@ -17,7 +17,7 @@ This is an upper-level course in International Relations (IR). The course offers
 
   - Lecture 1 (01.20.2021): Introduction ([Lecture Slides](LectureSlides/318__IR_Lecture_1.pdf); [Lecture Video](https://youtu.be/OLSG4Nybmdk)).  
 
-### Week 2.  
+### Week 2  
 
   - Lecture 2 (01.25.2021): The basics of theory constrcution ([Lecture Slides](LectureSlides/318__IR_Lecture_2.pdf); [Lecture Video](https://youtu.be/98MUaUNU6Gs)).
   - Lecture 3 (01.27.2021): Levels of analysis and the policy gap ([Lecture Slides](LectureSlides/318__IR_Lecture_3.pdf); [Lecture Video](https://youtu.be/kooM1fEqW0I)).  
@@ -27,6 +27,10 @@ Readings:
   - McClelland, Charles. "The function of theory in international relations." *Journal of Conflict Resolution, 4*, 3 (1960), 303-336.
   - Singer, David J. “The level-of-analysis problem in international relations”. *World Politics*, 14 (1961), 77-92.
   - Colgan, Jeff. “Where is International Relations Going? Evidence from Graduate Training”. *International Studies Quarterly 60*, 1 (2016), 486-498.  
+  
+ ### Week 3
+ 
+  - Lecture 4 (02.01.2021): Realism & Neorealism ([Lecture Slides](LectureSlides/318__IR_Lecture_4.pdf); [Lecture Video](https://youtu.be/coDtN1LUuXg)).
  
 
 
