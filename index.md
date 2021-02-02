@@ -28,7 +28,7 @@ Readings:
   - Singer, David J. “The level-of-analysis problem in international relations”. *World Politics*, 14 (1961), 77-92.
   - Colgan, Jeff. “Where is International Relations Going? Evidence from Graduate Training”. *International Studies Quarterly 60*, 1 (2016), 486-498.  
   
- ### Week 3
+### Week 3
  
   - Lecture 4 (02.01.2021): Realism & Neorealism ([Lecture Slides](LectureSlides/318__IR_Lecture_4.pdf); [Lecture Video](https://youtu.be/coDtN1LUuXg)).
  
