@@ -32,6 +32,12 @@ Readings:
 ### Week 3 
  
   - Lecture 4 (02.01.2021): Realism & Neorealism ([Lecture Slides](LectureSlides/318__IR_Lecture_4.pdf); [Lecture Video](https://youtu.be/coDtN1LUuXg)).
+  - Lecture 5 (02.03.2021): The Security Dilemma and PTT ([Lecture Slides](LectureSlides/318__IR_Lecture_5.pdf); [Lecture Video](https://youtu.be/n6vukFSOP4w)).  
+  
+Readings:  
+
+  - Walt, Stephen M. "International relations: one world, many theories." *Foreign policy* (1998): 29-46.
+  - Jervis, Robert. "Cooperation under the security dilemma". *World Politics* (1978), 167-214.
  
 
 
