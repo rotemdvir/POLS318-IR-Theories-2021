@@ -45,4 +45,10 @@ Readings:
 ### Week 4  
 
   - Lecture 6 (02.08.2021): Liberalism ([Lecture Slides](LectureSlides/318__IR_Lecture_6.pdf); [Lecture Video](https://youtu.be/Kra9tDKveak)).
+  - Lecture 7 (02.10.2021): Domestic Politics and IR ([Lecture Slides](LectureSlides/318__IR_Lecture_7.pdf); [Lecture Video](https://youtu.be/qEBAeV3Q-OM)).  
+  
+Readings:  
+
+  - Koch, Michael. "Governments, partisanship, and foreign policy: The case of dispute duration." *Journal of Peace Research 46*, 6 (2009), 799-817.
+  - Auerswald, David. "Inward bound: Domestic institutions and military conflicts." *International Organization 53*, 3 (1999), 469-504.
 
