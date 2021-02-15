@@ -52,5 +52,10 @@ Readings:
   - Moravcsik, Andrew. "Taking Preferences Seriously: A Liberal Theory of International Politics." *International Organization 51*, 4 (1997), 513-553. 
   - Putnam, Robert. "Diplomacy and Domestic Politics: The Logic of two-level games." *International Organization 42*, 3 (1988), 427-460. 
   - Koch, Michael. "Governments, partisanship, and foreign policy: The case of dispute duration." *Journal of Peace Research 46*, 6 (2009), 799-817.
-  - Auerswald, David. "Inward bound: Domestic institutions and military conflicts." *International Organization 53*, 3 (1999), 469-504.
+  - Auerswald, David. "Inward bound: Domestic institutions and military conflicts." *International Organization 53*, 3 (1999), 469-504.  
+  
+  
+### Week 5 
+
+  - Lecture 6 (02.15.2021): Rationality in IR ([Lecture Slides](LectureSlides/318__IR_Lecture_8.pdf); [Lecture Video](https://youtu.be/T9RvPWuyYGg)).
 
