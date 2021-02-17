@@ -57,5 +57,13 @@ Readings:
   
 ### Week 5 
 
-  - Lecture 6 (02.15.2021): Rationality in IR ([Lecture Slides](LectureSlides/318__IR_Lecture_8.pdf); [Lecture Video](https://youtu.be/T9RvPWuyYGg)).
+  - Lecture 8 (02.15.2021): Rationality in IR ([Lecture Slides](LectureSlides/318__IR_Lecture_8.pdf); [Lecture Video](https://youtu.be/T9RvPWuyYGg)).
+  - Lecture 9 (02.17.2021): Constructivism in IR ([Lecture Slides](LectureSlides/318__IR_Lecture_9.pdf))  
+
+Readings:  
+
+  - Fearon, James. "Rationalist Explanations for War." *International Organization 49*, 3 (1995), 379-414.
+  - Fuhrmann, Matthew and Sechser, Todd. "Signaling Alliance Commitments: Hand-Tying and Sunk Costs in Extended Nuclear Deterrence." *American Journal of Political Science 58*, 4 (2014), 919-935.
+  - Hopf, Ted. "The Promise of Constructivism in International Relations Theory." *International Security 23*, 1 (1998), 171-200.
+  - Nunez-Mietz, Fernando G., and Garcia Iommi, Lucrecia. "Can Transnational Norm Advocacy Undermine Internalization? Explaining Immunization Against LGBT Rights in Uganda." *International Studies Quarterly 61*, 1 (2017), 196-209.
 
