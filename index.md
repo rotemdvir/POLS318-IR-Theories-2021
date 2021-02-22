@@ -67,3 +67,15 @@ Readings:
   - Hopf, Ted. "The Promise of Constructivism in International Relations Theory." *International Security 23*, 1 (1998), 171-200.
   - Nunez-Mietz, Fernando G., and Garcia Iommi, Lucrecia. "Can Transnational Norm Advocacy Undermine Internalization? Explaining Immunization Against LGBT Rights in Uganda." *International Studies Quarterly 61*, 1 (2017), 196-209.
 
+### Week 6 
+
+  - Lecture 10 (02.22.2021): Political Psychology in IR ([Lecture Slides](LectureSlides/318__IR_Lecture_10.pdf); [Lecture Video](https://youtu.be/lLOD6DULFIA))
+
+
+Readings:  
+
+  - Hafner-Burton, Emily, Haggard, S., Lake, D., and Victor, D. "The Behavioral Revolution and International Relations." *International Organization 71*, S1 (2017), S1-S31.
+  - Levy, Jack. "Prospect Theory and International Relations: Theoretical Applications and Analytical Problems." *Political Psychology 13*, 2 (1992), 283-310.
+
+
+
