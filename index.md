@@ -80,5 +80,9 @@ Readings:
   - Horowitz, Michael and Fuhrmann, Matthew. "Studying Leaders and Military Conflict: Conceptual Framework and Research Agenda." *Journal of Conflict Resolution 62*, 10 (2018), 2072-2086.
   - Hermann, Margaret. "Explaining Foreign Policy Behavior Using the Personal Characteristics of Political Leaders." *International Studies Quarterly 24*, 1 (1980), 7-46.
 
+### Week 7  
+
+  - Lecture 12 (03.01.2021): International Political Economy ([Lecture Slides](LectureSlides/318__IR_Lecture_12.pdf); [Lecture Video](https://youtu.be/j5aoXR9W2V8))
+
 
 
