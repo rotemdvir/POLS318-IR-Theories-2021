@@ -92,5 +92,7 @@ Readings:
   - Allen, Susan. "The Determinants of Economic Sanctions Success and Failure." *International Interactions 31*, 2 (2005), 117-138.
   - Bueno de Mesquita, Bruce and Smith, Alistair. "Foreign Aid and Policy Concessions." *Journal of Conflict Resolution 51*, 2 (2007), 251-284.
 
+### Week 8  
 
+  - Lecture 14 (03.08.2021): International Treaties ([Lecture Slides](LectureSlides/318__IR_Lecture_14.pdf); [Lecture Video](https://youtu.be/Es36YhEdBnA))
 
