@@ -95,7 +95,7 @@ Readings:
 ### Week 8  
 
   - Lecture 14 (03.08.2021): International Treaties ([Lecture Slides](LectureSlides/318__IR_Lecture_14.pdf); [Lecture Video](https://youtu.be/Es36YhEdBnA))
-  - Lecture 15 (03.10.2021): Allainces & International Institutions ([Lecture Slides](LectureSlides/318__IR_Lecture_15.pdf); [Lecture Video](https://youtu.be/2FmtH6vi94s))
+  - Lecture 15 (03.10.2021): Alliances & International Institutions ([Lecture Slides](LectureSlides/318__IR_Lecture_15.pdf); [Lecture Video](https://youtu.be/2FmtH6vi94s))
 
 Readings:  
 
