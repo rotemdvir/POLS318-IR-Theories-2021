@@ -104,3 +104,12 @@ Readings:
   - Allee, Todd and Scalera, Jamie. "The Divergent Effects of Joining International Organizations: Trade Gains and the Rigors of WTO Accession." *international Organziation 66*,2 (2012), 243-276.
   - Fuhrmann, Matthew and Lupu, Yonatan. "Do Arms Control Treaties Work? Assessing the Effectiveness of the Nuclear Nonproliferation Treaty." *International Studies Quarterly 60*, 3 (2016), 530-539.
 
+### Week 9  
+
+  - Lecture 16 (03.15.2021): Democratic Peace Theory ([Lecture Slides](LectureSlides/318__IR_Lecture_16.pdf); [Lecture Video](https://youtu.be/oRAYNfQcdWQ))
+
+Readings:  
+
+  - Maoz, Zeev and Russett, Bruce. "Normative and Structural Causes of the Democratic Peace, 1946-1986." *American Political Science Review 87*, 3 (1993), 624-638.
+  - Bueno de Mesquita, Bruce, Morrow, J., Siverson, R., Smith, A. "An Institutional Explanation of the Democratic Peace." *American Political Science Review 93*,4 (1999), 791-807.
+
