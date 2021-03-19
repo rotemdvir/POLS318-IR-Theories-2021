@@ -107,7 +107,7 @@ Readings:
 ### Week 9  
 
   - Lecture 16 (03.15.2021): Democratic Peace Theory ([Lecture Slides](LectureSlides/318__IR_Lecture_16.pdf); [Lecture Video](https://youtu.be/oRAYNfQcdWQ))
-  - Lecture 17 (03.17.2021): Democratcies & War ([Lecture Slides](LectureSlides/318__IR_Lecture_17.pdf); [Lecture Video](https://youtu.be/asWR1a7oT-s))
+  - Lecture 17 (03.17.2021): Democracies & War ([Lecture Slides](LectureSlides/318__IR_Lecture_17.pdf); [Lecture Video](https://youtu.be/asWR1a7oT-s))
 
 Readings:  
 
