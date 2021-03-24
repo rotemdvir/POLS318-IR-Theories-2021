@@ -119,9 +119,11 @@ Readings:
 ### Week 10  
 
   - Lecture 18 (03.22.2021): Audience Costs ([Lecture Slides](LectureSlides/318__IR_Lecture_18.pdf); [Lecture Video](https://youtu.be/KCg3XCYBvtk))
+  - Lecture 19 (03.24.2021): Audience Costs - the Public Angle ([Lecture Slides](LectureSlides/318__IR_Lecture_19.pdf); [Lecture Video](https://youtu.be/CpTVMRhEWC0))
 
 Readings:  
 
   - Fearon, James. "Domestic Political Audiences and the Escalation of International Disputes." *American Political Science Review 88*, 3 (1994), 577-592.
   - Potter, Phillip and Baum, Matthew. "Looking for Audience Costs in all the Wrong Places: Electoral Institutions, Media Access, and Democratic Constraint." *Journal of Politics 76*, 1 (2014), 167-181.
+  - Tomz, Michael. "Domestic Audience Costs in International Relations: An Experimental Approach." *International Organization 61*, 4 (2007), 821-840.
 
