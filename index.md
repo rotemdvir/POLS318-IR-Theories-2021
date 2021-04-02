@@ -14,7 +14,7 @@ This is an upper-level course in International Relations (IR). The course offers
 ## Course Material  
 
   - Syllabus: [Section 500](LectureSlides/POLS318_Syllabus.pdf); [Section 501](LectureSlides/POLS318_Syllabus501.pdf)
-  - Final Project Prep: [Slides](LectureSlides/Final_project.pdf); [Video](https://youtu.be/4wIlxOJelXQ)).
+  - Final Project Prep: [Slides](LectureSlides/Final_project.pdf); [Video](https://youtu.be/4wIlxOJelXQ).
 
 
 ### Week 1   
