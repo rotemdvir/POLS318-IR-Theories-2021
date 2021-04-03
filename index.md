@@ -131,7 +131,7 @@ Readings:
 ### Week 11  
 
   - Lecture 20 (03.29.2021): Deterrence, Reputation, and Resolve ([Lecture Slides](LectureSlides/318__IR_Lecture_20.pdf); [Lecture Video](https://youtu.be/B9sE90HVCoA))
-  - Lecture 21 (03.29.2021): Coercion and Military Power ([Lecture Slides](LectureSlides/318__IR_Lecture_21.pdf); [Lecture Video](https://youtu.be/0bIC6tXhAsU))
+  - Lecture 21 (03.31.2021): Coercion and Military Power ([Lecture Slides](LectureSlides/318__IR_Lecture_21.pdf); [Lecture Video](https://youtu.be/0bIC6tXhAsU))
 
 Readings:  
 
