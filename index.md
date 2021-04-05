@@ -139,3 +139,12 @@ Readings:
   - Weisiger, Alex and Yarhi-Milo, Keren. "Revisiting Reputation: How Past Actions Matter in International Politics." *International Organization 69*, 2 (2015), 473-495.
   - Horowitz, Michael and Reiter, Dan. "When Does Aerial Bombing Work? Quantitative Empirical Tests, 1917-1999." *Journal of Conflict Resolution 45*,2 (2001), 147-173.
   - Allen, Susan. "Time Bombs: Estimating the Duration of Coercive Bombing Campaigns." *Journal of Conflict Resolution 51*,1 (2007), 112-133.
+
+### Week 12  
+
+  - Lecture 22 (04.05.2021): Territorial Disputes ([Lecture Slides](LectureSlides/318__IR_Lecture_22.pdf); [Lecture Video](https://youtu.be/COkC37iDiQE))
+
+Readings:  
+
+  - Vasquez, John. "Why do Neighbors Fight? Proximity, Interaction, or Territoriality." *Journal of Peace Research 32*, 3 (1995), 277-293.
+  - Wright, Thorin and Diehl, Paul. "Unpacking Territorial Disputes: Domestic Political Influences and War." *Journal of Conflict Resolution 60*, 4 (2016), 645-669.
