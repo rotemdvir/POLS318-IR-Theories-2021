@@ -143,7 +143,7 @@ Readings:
 ### Week 12  
 
   - Lecture 22 (04.05.2021): Territorial Disputes ([Lecture Slides](LectureSlides/318__IR_Lecture_22.pdf); [Lecture Video](https://youtu.be/COkC37iDiQE))
-  - Lecture 23 (04.05.2021): Territorial Disputes - the Motivations ([Lecture Slides](LectureSlides/318__IR_Lecture_23.pdf); [Lecture Video](https://youtu.be/KiiZ-J-IH8Y))
+  - Lecture 23 (04.07.2021): Territorial Disputes - the Motivations ([Lecture Slides](LectureSlides/318__IR_Lecture_23.pdf); [Lecture Video](https://youtu.be/KiiZ-J-IH8Y))
 
 Readings:  
 
