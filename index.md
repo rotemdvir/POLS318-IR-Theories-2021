@@ -155,7 +155,7 @@ Readings:
 ### Week 13
 
   - Lecture 24 (04.12.2021): International Terrorism - the Motivations ([Lecture Slides](LectureSlides/318__IR_Lecture_24.pdf); [Lecture Video](https://youtu.be/p6Pa7IxnJao))
-  - Lecture 25 (04.12.2021): International Terrorism - effects and CT ([Lecture Slides](LectureSlides/318__IR_Lecture_25.pdf); [Lecture Video](https://youtu.be/DDF9-87ChvA))
+  - Lecture 25 (04.14.2021): International Terrorism - effects and CT ([Lecture Slides](LectureSlides/318__IR_Lecture_25.pdf); [Lecture Video](https://youtu.be/DDF9-87ChvA))
 
 Readings:  
 
