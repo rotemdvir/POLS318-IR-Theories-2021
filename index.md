@@ -163,3 +163,12 @@ Readings:
   - Chenoweth, Erica. "Terrorism and democracy." *Annual Review of Political Science 16*, (2013): 355-378.
   - Getmansky, Anna and Zeitzoff, Thomas. "Terrorism and Voting: The Effect of Rocket Threat on Voting in Israeli Elections", *American Political Science Review 108*, 3 (2014), 588-604. 
   - Mir, Asfandyar, & Moore, Dylan "Drones, surveillance, and violence: Theory and evidence from a us drone program." *International Studies Quarterly 63*,4 (2019), 846-862.
+
+### Week 14  
+
+  - Lecture 26 (04.19.2021): Modern Technology & IR ([Lecture Slides](LectureSlides/318__IR_Lecture_26.pdf); [Lecture Video](https://youtu.be/yYbwTj_kOJE))
+
+Readings:  
+
+  - Horowitz, Michael. "Do Emerging Military Technologies Matter for International Politics?" *Annual Review of Political Science 23*, (2020), 385-400.
+  - Kostyuk, Nadiya, and Wayne, Carly. "The Microfoundations of State Cybersecurity: Cyber Risk Perceptions and the Mass Public." *Journal of Global Security Studies* (2020). 
