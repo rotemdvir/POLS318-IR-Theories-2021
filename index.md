@@ -167,8 +167,11 @@ Readings:
 ### Week 14  
 
   - Lecture 26 (04.19.2021): Modern Technology & IR ([Lecture Slides](LectureSlides/318__IR_Lecture_26.pdf); [Lecture Video](https://youtu.be/yYbwTj_kOJE))
+  - Lecture 27 (04.21.2021): Covert Actions & IR ([Lecture Slides](LectureSlides/318__IR_Lecture_27.pdf); [Lecture Video](https://youtu.be/kvLx89meZDA))
 
 Readings:  
 
   - Horowitz, Michael. "Do Emerging Military Technologies Matter for International Politics?" *Annual Review of Political Science 23*, (2020), 385-400.
-  - Kostyuk, Nadiya, and Wayne, Carly. "The Microfoundations of State Cybersecurity: Cyber Risk Perceptions and the Mass Public." *Journal of Global Security Studies* (2020). 
+  - Kostyuk, Nadiya, and Wayne, Carly. "The Microfoundations of State Cybersecurity: Cyber Risk Perceptions and the Mass Public." *Journal of Global Security Studies* (2020).
+  - Poznansky, Michael. "Stasis or Decay? Reconciling Covert War and the Democratic Peace." *International Studies Quarterly 59*,4 (2015), 815-826.
+  - Myrick, Rachel. "Why So Secretive? Unpacking Public Attitudes toward Secrecy and Success in US Foreign Policy," *The Journal of Politics 82*, 3 (2020): 828-843. 
